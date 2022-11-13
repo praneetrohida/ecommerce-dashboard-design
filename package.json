@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce-dashbaord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Praneet Rohida",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
